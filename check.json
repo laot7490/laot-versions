@@ -2,5 +2,6 @@
   "lt-lib":"1.0.0",
   "lt-notification":"1.0.0",
   "lt-chat":"1.0.0",
-  "lt-banking":"1.0.0"
+  "lt-banking":"1.0.0",
+  "lt-taxijob":"1.0.0"
 }
