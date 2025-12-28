@@ -3,6 +3,6 @@
   "lt-chat": "1.0.0",
   "lt-fuel": "1.0.0",
   "lt-lib": "1.0.0",
-  "lt-notification": "1.0.0",
+  "lt-notify": "1.0.0",
   "lt-taxijob": "1.0.0"
 }
