@@ -1,7 +1,8 @@
 {
-  "lt-lib":"1.0.3",
-  "lt-notification":"1.0.0",
-  "lt-chat":"1.0.0",
-  "lt-banking":"1.0.0",
-  "lt-taxijob":"1.0.0"
+  "lt-banking": "cerulean",
+  "lt-chat": "cerulean",
+  "lt-fuel": "cerulean",
+  "lt-lib": "cerulean",
+  "lt-notification": "cerulean",
+  "lt-taxijob": "cerulean"
 }
