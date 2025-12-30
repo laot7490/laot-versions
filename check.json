@@ -1,5 +1,6 @@
 {
-  "lt-banking": "1.0.0",
+  "lt-banking": "2.0.0",
+  "lt-bankingOld": "1.0.0",
   "lt-chat": "1.0.0",
   "lt-fuel": "1.0.0",
   "lt-lib": "1.0.0",
