@@ -1,10 +1,10 @@
 {
   "lt-banking": "2.0.0",
   "lt-bankingOld": "1.0.0",
-  "lt-chat": "1.1.0",
+  "lt-chat": "1.1.2",
   "lt-fuel": "2.0.0",
   "lt-lib": "1.0.0",
   "lt-notify": "1.0.0",
   "lt-taxijob": "1.0.0",
-  "lt-ui": "1.0.1"
+  "lt-ui": "1.0.3"
 }
