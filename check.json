@@ -2,8 +2,6 @@
   "lt-banking": "1.0.0",
   "lt-chat": "1.2.8",
   "lt-fuel": "1.0.1",
-  "lt-lib": "1.0.0",
-  "lt-notify": "1.0.0",
   "lt-taxijob": "1.0.0",
   "lt-ui": "1.3.1"
 }
