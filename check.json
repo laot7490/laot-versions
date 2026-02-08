@@ -3,7 +3,8 @@
   "lt-chat": "1.3.2",
   "lt-chopshop": "1.0.0",
   "lt-deliveryjob": "1.0.0",
-  "lt-fuel": "1.0.2",
+  "lt-fuel": "1.0.3",
+  "lt-garbagejob": "1.0.0",
   "lt-taxijob": "1.0.0",
   "lt-ui": "1.3.2"
 }
