@@ -8,5 +8,6 @@
   "lt-taxijob": "1.0.0",
   "lt-template": "1.0.0",
   "lt-ui": "1.3.4",
-  "0r-radio": "1.0.0"
+  "0r-radio": "1.0.0",
+  "0r-gps": "1.0.0"
 }
